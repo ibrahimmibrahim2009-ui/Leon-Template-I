@@ -1,5 +1,5 @@
 # Leon Template I Project
-## A fully responsive website with comfortable design colors and layout. 
+### A fully responsive website with comfortable design colors and layout. 
 ## Sections
 ### The web is devided into many sections: 
 1. Header: It includes a fontawesome icon and droplist. The droplist is designed with hover property to display the droplist links that are directed to the web sections. 
