@@ -1,5 +1,5 @@
-# Leon Template I Project
-### A fully responsive website with comfortable design colors and layout. 
+# Leon Template I
+### A fully responsive website with comfortable design colors and layout. The design is divided onto many sections of a bit similar layouts, but each section uniques with its different feature.
 
 ## Responsivity
 ### The design is fully responsive at different devices screens depending mainly on grid layouts. The most used properties in desing layouts is autofill and minmax properties to automatically resize the layout by reducing screen width.
